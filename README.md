@@ -1,2 +1,2 @@
-#Exemplos feitos en clase  
-##Exemplo bucle while
+# Exemplos feitos en clase  
+## Exemplo bucle while
