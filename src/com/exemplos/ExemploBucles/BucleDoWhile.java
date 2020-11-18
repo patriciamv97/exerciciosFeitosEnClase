@@ -1,4 +1,4 @@
-package com.company.exemploBucles;
+package com.exemplos.ExemploBucles;
 
 import javax.swing.*;
 

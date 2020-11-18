@@ -1,4 +1,4 @@
-package com.company.exemploBucles;
+package com.exemplos.ExemploBucles;
 
 public class ExemBucles {
     public static void main(String[] args) {
