@@ -1,4 +1,4 @@
-package com.exemplos.ExemploObxecto;
+package com.exemplos.Obxeto.ExemploObxeto;
 
 public class Rectangulo {
     // atributos
