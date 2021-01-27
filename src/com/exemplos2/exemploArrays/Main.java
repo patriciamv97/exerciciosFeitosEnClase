@@ -12,9 +12,11 @@ public class Main {
         System.out.println("Lista ordenada");
         //obxMetodos.ordenar(temperaturas);
         //obxMetodos.amosarArrays(temperaturas);
-        obxMetodos.ordenarDirecto2(temperaturas);
+       /* obxMetodos.ordenarDirecto2(temperaturas);
         obxMetodos.amosarArrays(temperaturas);
-        obxMetodos.buscarLista(temperaturas,12);
+        obxMetodos.buscarLista(temperaturas,12);*/
+
+
 
     }
 }
