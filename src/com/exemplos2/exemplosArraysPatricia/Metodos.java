@@ -18,8 +18,9 @@ public class Metodos {
 
     }
 
-    public void ordenar(float[] lista) {
+    public float[] ordenar(float[] lista) {
         Arrays.sort(lista);
+        return lista;
     }
 
     //Ordena de menor a mayor
